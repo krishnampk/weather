@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.sonatype.mavenbook.multi</groupId>
+  <artifactId>parent</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180227130430</lastUpdated>
+  </versioning>
+</metadata>
