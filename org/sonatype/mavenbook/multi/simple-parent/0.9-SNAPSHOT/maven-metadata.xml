@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.sonatype.mavenbook.multi</groupId>
-  <artifactId>parent</artifactId>
+  <artifactId>simple-parent</artifactId>
   <version>0.9-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180227.130653</timestamp>
+      <timestamp>20180227.130658</timestamp>
       <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20180227130653</lastUpdated>
+    <lastUpdated>20180227130658</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.9-20180227.130653-2</value>
-        <updated>20180227130653</updated>
+        <value>0.9-20180227.130658-2</value>
+        <updated>20180227130658</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
