@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.sonatype.mavenbook.multi</groupId>
+  <artifactId>simple-webapp</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180227130712</lastUpdated>
+  </versioning>
+</metadata>
